@@ -1,0 +1,25 @@
+{
+  "name": "plcwse",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews para ser aplicado ao PLC com Engenharia de Software.",
+  "homepage": "https://github.com/tS1lva/plcwse#readme",
+  "bugs": {
+    "url": "https://github.com/tS1lva/plcwse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tS1lva/plcwse.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
